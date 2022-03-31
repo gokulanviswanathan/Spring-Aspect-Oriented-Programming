@@ -41,7 +41,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
-			<version>4.3.19</version>
+			<version>5.3.18</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
